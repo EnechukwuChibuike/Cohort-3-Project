@@ -1,0 +1,40 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    width: 100vw;
+    height: 50vh;
+    background-color: skyblue;
+}
+
+.med{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  height: 50vh;
+  margin-top: -15vh;
+  font-size: xx-large;
+}
+
+.doctor{
+    width: 30vw;
+    height: 30vh;
+    display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 10%;
+  margin-top: -20vh;
+}
+
+.button-div{
+    background-color: blue;
+     width: 170px;
+  height: 35px;
+  border: none;
+  align-items:start;
+}
