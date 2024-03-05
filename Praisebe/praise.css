@@ -1,0 +1,27 @@
+body {
+  background-image: url(./lanscape\ image.jpg);
+  background-size: 100%;
+}
+header {
+  height: 30px;
+  background-color: #696969;
+}
+.Motto {
+  width: 20vw;
+  height: 20vh;
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  flex-direction: column;
+  /* border: 1px solid black; */
+  margin-top: 70px;
+}
+
+.bi {
+  font-size: 24px;
+  color: red;
+}
+
+.General {
+  height: vh;
+}
